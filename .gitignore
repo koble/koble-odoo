@@ -16,3 +16,8 @@ share/
 src/
 upgrade.py
 *.pyc
+eggs/
+Koble Odoo/
+.project
+.pydevproject
+.metadata/
